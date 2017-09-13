@@ -1,0 +1,15 @@
+///
+/// created by Risha Sringa Changmai for DHSK Law College. All rights reserved
+///
+
+/* Icon */
+
+	.icon {
+		@include icon;
+		border-bottom: none;
+		position: relative;
+
+		> .label {
+			display: none;
+		}
+	}

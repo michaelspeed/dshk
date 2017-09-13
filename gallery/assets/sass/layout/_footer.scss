@@ -1,0 +1,16 @@
+///
+/// created by Risha Sringa Changmai for DHSK Law College. All rights reserved
+///
+
+/* Footer */
+
+	#footer {
+		.copyright {
+			color: _palette(fg-light);
+			font-size: 0.9em;
+
+			a {
+				color: inherit;
+			}
+		}
+	}
